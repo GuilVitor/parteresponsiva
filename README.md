@@ -1,0 +1,2 @@
+# parteresponsiva
+partida
